@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -40,7 +39,6 @@ background-size: 100% 100%;">
                     <div class="LinkSubtitle" style="overflow: hidden; text-overflow: ellipsis;"></div>
                 </div>
                 <span class="MuiTouchRipple-root css-w0pj6f"></span>
-            </a>
             </a>
         </center>
         <center class=" RowLink" style="position: relative;">
